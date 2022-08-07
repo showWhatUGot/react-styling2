@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import CSSModule from "./CSSModule";
+import CSSModule from "./CSSModule.js";
 
 class App extends Component {
   render() {
